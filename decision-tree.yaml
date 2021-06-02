@@ -76,7 +76,8 @@ solutions:
   infoline: Location in Office 365 to store and share personal business files
   info: |
     OneDrive for Business is part of Office 365 and is used for storing and sharing personal business files. 
-    You are the only one with access to these files, but access can be granted to colleagues or external people.
+    Everything in OneDrive can only be seen by you, unless you share it with  colleagues or external people. OneDrive is the safe alternative to, for example, Dropbox, We Transfer and Google Drive
+    You are the only one with access to these files, but access can be granted to.
   description: |
     <dl class="dl-horizontal">
       <dt>Short description</dt><dd>Location in Office 365 to store and share personal business files</dd>
@@ -87,7 +88,7 @@ solutions:
       <dt>Availability</dt><dd>Microsoft cloudservice. The TU Delft does not make backups of files stores in Office 365</dd>
       <dt>Security</dt><dd>high</dd>
       <dt>Versioning</dt><dd>Versioning is available</dd>
-      <dt>Get started</dt><dd><a href="https://solisservices-my.sharepoint.com/" target="_blank">https://solisservices-my.sharepoint.com/</a></dd>
+      <dt>Get started</dt><dd><a href="https://www.tudelft.nl/ict-handleidingen/microsoft-365/" target="_blank">https://www.tudelft.nl/ict-handleidingen/microsoft-365/</a></dd>
       <dt>More information</dt><dd><p>For more information please contact the <a href="https://www.tudelft.nl">IT servicedesk</a></p>
       </dd>
     </dl>
