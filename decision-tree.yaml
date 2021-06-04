@@ -1,6 +1,6 @@
 input:
 
-- question: "what kind of data do you want to store?"
+- question: "What kind of data do you want to store?"
   id: 1
   info: "Storage for your research data often may require to be secured, backed up, has possibility to share/limit access to the internal and external colleagues. Often you won't have access to the storage provided by the TU Delft once your contract is over. Please check different storage cards for more details. "
   answers:
@@ -8,7 +8,7 @@ input:
       excludes: [ n-schijf, laptop, opencloud ]
     - value: "I'd like to store private data (photos, contracts etc)"
       excludes: [ block, m-schijf, n-schijf, u-schijf, msteams, w-contact ]    
-- question: "Do you want to share your data with colleagues during your research?"
+- question: "Do you want to share your data with colleagues?"
   id: 2
   info: "Sharing means that some people may have access to your data. Depending on the data storage you can grant access to other people yourself or request it via an administrator/data manager. You find more information about access rights in the solution description cards"
   answers:
@@ -27,7 +27,7 @@ input:
     - value: "50 GB - 1 TB"
       excludes: [ laptop, tulaptop, n-schijf, h-schijf, m-schijf ]
     - value: "1 TB - 5 TB"
-      excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, h-schijf, m-schijf ]
+      excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, h-schijf, msteams, m-schijf ]
     - value: "More than 5 TB"
       excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, msteams, h-schijf, opencloud, m-schijf ]
 - question: "What is the classification of your data regarding CONFIDENTIALITY?"
@@ -51,7 +51,7 @@ input:
     - value: "Sensitive"
       excludes: [ n-schijf, opencloud, m-schijf, laptop  ]
     - value: "Critical"
-      excludes: [ n-schijf, opencloud, h-schijf, m-schijf, u-schijf, surfdrive, laptop, block, tulaptop, onedrive, msteams ]
+      excludes: [ n-schijf, opencloud, h-schijf, m-schijf, surfdrive, laptop, block, tulaptop, onedrive, msteams ]
 - question: "Do you want to be able to access previous versions of the data yourself?"
   id: 5
   info: "<p>Some storage solutions allow you to access previous versions of the data yourself. In some cases you need the administrator to ask for previous versions.</p>"
