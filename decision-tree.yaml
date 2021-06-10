@@ -209,14 +209,14 @@ solutions:
   info: |
     Group data storage, also referred to as folders, is a communal storage facility for a number of 
     users in the same tutorial, department or research group. The standard storage space for a group folder is 50 gigabytes
-- name: TUD Bulk Data Storage (N:)
+- name:  TUD Bulk Data Storage (N:)
   id: n-schijf
   infoline: Common storage facilities for staff groups
   info: |
     Bulk data storage for staff of TUDelft. 
     <br/>
     Do NOT use this storage for research data!
-- name: TUDelft Project Data Storage (U:)
+- name:  TUDelft Project Data Storage (U:)
   id: u-schijf
   infoline: Data storage for research
   info: |
