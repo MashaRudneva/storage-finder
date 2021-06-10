@@ -30,7 +30,7 @@ input:
       excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, h-schijf, msteams, m-schijf ]
     - value: "More than 5 TB"
       excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, msteams, h-schijf, opencloud, m-schijf ]
-- question: "What is the classification of your data regarding CONFIDENTIALITY?"
+- question: "What is the classification of your data regarding confidentiality?"
   id: 4
   info: |
     <p>What is the impact if an unauthorised person gains access to the data and what if the data is leaked?</p>
