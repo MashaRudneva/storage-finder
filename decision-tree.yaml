@@ -112,9 +112,9 @@ solutions:
       <dt>More information</dt><dd><p>For more information please visit the <a href="https://www.surf.nl/en/store-and-share-your-files-securely-in-the-cloud-with-surfdrive/frequently-asked-questions-faq">Surf FAQ page</a></p>
       </dd>
     </dl>
-- name: TUDelft laptop
+- name: TU Delft laptop
   id: tulaptop
-  infoline: Your TUDelft configured and managed laptop
+  infoline: Your TU Delft configured and managed laptop
   info: |
     Your TUDelft managed laptop that you use to work on on a daily basis
   description: |
@@ -123,7 +123,7 @@ solutions:
       <dt>Cost</dt><dd>Depends on the device</dd>
       <dt>Max. storage size</dt><dd>Not applicable</dd>
       <dt>Sharing and collaboration</dt><dd>Not possible</dd>
-      <dt>Stored at</dt><dd>TU Delft</dd>
+      <dt>Stored at</dt><dd>your laptop only, no backup available</dd>
       <dt>Availability</dt><dd>Depends on the device</dd>
       <dt>Security</dt><dd>low</dd>
       <dt>Versioning</dt><dd>Not possible</dd>
@@ -142,7 +142,7 @@ solutions:
       <dt>Cost</dt><dd>Not applicable</dd>
       <dt>Max. storage size</dt><dd>Not applicable</dd>
       <dt>Sharing and collaboration</dt><dd>Not possible</dd>
-      <dt>Stored at</dt><dd>Outside of Europe (can be anywhere in the world)</dd>
+      <dt>Stored at</dt><dd>your laptop only, no backup available</dd>
       <dt>Availability</dt><dd>Depends on the device</dd>
       <dt>Security</dt><dd>low</dd>
       <dt>Versioning</dt><dd>Not applicable</dd>
