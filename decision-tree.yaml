@@ -20,7 +20,7 @@ input:
       excludes: [ laptop, tulaptop, block, project, msteams, h-schijf, n-schijf, m-schijf, u-schijf ]
 - question: "What will be the total amount of your data?"
   id: 3
-  info: "To give you an idea about size: 1 TB is around 330.000 photos (assuming that the average size photo is 3 MB) or more than 35 hours of 1080p video files. Compare: 10TB is the amount of data produced by the Hubble Space Telescope per year (figures 2018)"
+  info: "To give you an idea about size: 1 TB is 270,000 photos taken with a 12MP camera or 500 hours of HD video or 6.5 million document pages"
   answers:
     - value: "Under 50 GB"
       excludes: [ n-schijf ]
@@ -106,10 +106,10 @@ solutions:
       <dt>Sharing and collaboration</dt><dd>SURFdrive offers staff, researchers and students an easy way to share and synchronise files within a secure community cloud with ample storage capacity.</dd>
       <dt>Stored at</dt><dd>Within Europe</dd>
       <dt>Availability</dt><dd>SURF cloudservice. The TU Delft does not make backups of files stores in SURFdrive</dd>
-      <dt>Security</dt><dd>medium</dd>
+      <dt>Security</dt><dd>N, S, C; as it involves sensitive personal data, or high sensitive IP/state sensitive; additional measure (i.e. client side encryption) are needed</dd>
       <dt>Versioning</dt><dd>Versioning is available</dd>
       <dt>Get started</dt><dd><a href="https://surfdrive.nl/" target="_blank">https://surfdrive.nl/</a></dd>
-      <dt>More information</dt><dd><p>For more information please contact the <a href="https://www.tudelft.nl">IT servicedesk</a></p>
+      <dt>More information</dt><dd><p>For more information please visit the <a href="https://www.surf.nl/en/store-and-share-your-files-securely-in-the-cloud-with-surfdrive/frequently-asked-questions-faq">Surf FAQ page</a></p>
       </dd>
     </dl>
 - name: TUD laptop
