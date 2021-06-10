@@ -77,7 +77,6 @@ solutions:
   info: |
     OneDrive for Business is part of Office 365 and is used for storing and sharing personal business files. 
     Everything in OneDrive can only be seen by you, unless you share it with  colleagues or external people. OneDrive is the safe alternative to, for example, Dropbox, We Transfer and Google Drive
-    You are the only one with access to these files, but access can be granted to.
   description: |
     <dl class="dl-horizontal">
       <dt>Short description</dt><dd>Location in Office 365 to store and share personal business files</dd>
@@ -232,15 +231,15 @@ solutions:
     </ul>
 - name: TUD Block Storage
   id: block    
-  infoline: Block storage for virtual machines hosted at TUD (aka VMWare Server Storage)
+  infoline: Block storage for virtual machines hosted at TUD (VMWare Server Storage)
   info: |
     When you require storage that is attached to a TUD hosted virtual machine you will need 
     block storage for that virtual machine. TUD Block Storage provides high speed access to your 
     data from your own machine.
 - name: Contact ICT
   id: w-contact    
-  infoline: For special storage solutions please contact ICT department
+  infoline: For special storage solutions please contact Service point of your department
   info: |
-    If you can not find a good storage solution for your project, please go to your servicepunt, alternatively you can issue a ticket via the Topdesk . 
+    If you can not find a good storage solution for your project, please go to your "servicepunt", alternatively you can issue a ticket via the <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=846ebb16181c43b5836c063a917dd199&from=03aa10b9-c5aa-4e0a-80b1-28ee7ab383df">Topdesk</a> . 
     <br/>
     
