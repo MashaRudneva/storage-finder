@@ -203,12 +203,42 @@ solutions:
       <li>8 GB of disk space is provided as standard for both employees and students.</li>
       <li>The data in your personal folder will be included in central backups, enabling the recovery of data that has accidentally been deleted.</li>
       <li>You can recover the backups of lost documents using the previous versions option without the involvement of a Service Point employee. This can be done to recover files up to two weeks back</li>
+  description: |
+    <dl class="dl-horizontal">
+      <dt>Short description</dt><dd>Any free public cloud storage</dd>
+      <dt>Cost</dt><dd>Free for limited storage size. More storage can be purchased</dd>
+      <dt>Max. storage size</dt><dd>Depends on the solution</dd>
+      <dt>Sharing and collaboration</dt><dd>Depends on the solution</dd>
+      <dt>Stored at</dt><dd>Outside of Europe (can be anywhere in the world)</dd>
+      <dt>Availability</dt><dd>Depends on the solution</dd>
+      <dt>Security</dt><dd>low</dd>
+      <dt>Versioning</dt><dd>Depends on the solution</dd>
+      <dt>Get started</dt><dd><a href="" target="_blank"></a></dd>
+      <dt>More information</dt><dd><p>For more information please check the solution provider page.</p>
+      <p>&nbsp;</p>
+      </dd>
+    </dl>  
 - name: TUDelft Group Data Storage (M:)
   id: m-schijf
   infoline: Common storage facilities for employees in the same workgroup, department or research group
   info: |
     Group data storage, also referred to as folders, is a communal storage facility for a number of 
     users in the same tutorial, department or research group. The standard storage space for a group folder is 50 gigabytes
+  description: |
+    <dl class="dl-horizontal">
+      <dt>Short description</dt><dd>Any free public cloud storage</dd>
+      <dt>Cost</dt><dd>Free for limited storage size. More storage can be purchased</dd>
+      <dt>Max. storage size</dt><dd>Depends on the solution</dd>
+      <dt>Sharing and collaboration</dt><dd>Depends on the solution</dd>
+      <dt>Stored at</dt><dd>Outside of Europe (can be anywhere in the world)</dd>
+      <dt>Availability</dt><dd>Depends on the solution</dd>
+      <dt>Security</dt><dd>low</dd>
+      <dt>Versioning</dt><dd>Depends on the solution</dd>
+      <dt>Get started</dt><dd><a href="" target="_blank"></a></dd>
+      <dt>More information</dt><dd><p>For more information please check the solution provider page.</p>
+      <p>&nbsp;</p>
+      </dd>
+    </dl> 
 - name:  TUD Bulk Data Storage (N:)
   id: n-schijf
   infoline: Common storage facilities for staff groups
@@ -229,6 +259,21 @@ solutions:
       <li>Optional: After two weeks, a back-up is made every week and saved for a year. This means a data loss of maximum one day can occur. </li>
       <li>Optional: Redundant storage in multiple locations / data centres. The data remains available should a storage location fail.
     </ul>
+  description: |
+    <dl class="dl-horizontal">
+      <dt>Short description</dt><dd>Any free public cloud storage</dd>
+      <dt>Cost</dt><dd>Free for limited storage size. More storage can be purchased</dd>
+      <dt>Max. storage size</dt><dd>Depends on the solution</dd>
+      <dt>Sharing and collaboration</dt><dd>Depends on the solution</dd>
+      <dt>Stored at</dt><dd>Outside of Europe (can be anywhere in the world)</dd>
+      <dt>Availability</dt><dd>Depends on the solution</dd>
+      <dt>Security</dt><dd>low</dd>
+      <dt>Versioning</dt><dd>Depends on the solution</dd>
+      <dt>Get started</dt><dd><a href="" target="_blank"></a></dd>
+      <dt>More information</dt><dd><p>For more information please check the solution provider page.</p>
+      <p>&nbsp;</p>
+      </dd>
+    </dl> 
 - name: TUDelft Block Storage
   id: block    
   infoline: Block storage for virtual machines hosted at TUDelft (VMWare Server Storage)
