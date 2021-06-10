@@ -93,7 +93,7 @@ solutions:
     </dl>
 - name: Surfdrive
   id: surfdrive
-  infoline: SURFdrive is a personal cloud storage service for Dutch education and research.
+  infoline: SURFdrive is a personal cloud storage service for Dutch education and research
   info: |
     SURFdrive is a personal cloud storage service for the Dutch education and research community, offering staff, 
     researchers and students an easy way to store, synchronise and share files in the secure and reliable SURF community 
@@ -205,13 +205,13 @@ solutions:
       <li>You can recover the backups of lost documents using the previous versions option without the involvement of a Service Point employee. This can be done to recover files up to two weeks back</li>
 - name: TU Delft Group Data Storage (M:)
   id: m-schijf
-  infoline: Common storage facilities for employees in the same workgroup, department or research group.
+  infoline: Common storage facilities for employees in the same workgroup, department or research group
   info: |
     Group data storage, also referred to as folders, is a communal storage facility for a number of 
     users in the same tutorial, department or research group. The standard storage space for a group folder is 50 gigabytes
 - name: TUD Bulk Data Storage (N:)
   id: n-schijf
-  infoline: Common storage facilities for staff groups.
+  infoline: Common storage facilities for staff groups
   info: |
     Bulk data storage for staff of TU Delft. 
     <br/>
