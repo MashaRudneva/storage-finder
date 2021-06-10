@@ -152,14 +152,14 @@ solutions:
     </dl>      
 - name: Microsoft Teams
   id: msteams
-  infoline: Work together and store and share files
+  infoline: Work together, store and share files
   info: |
     Microsoft Teams is part of Office 365 and offers an integrated collaboration environment. 
     Store and share files with your team, edit documents with multiple people on the same time, 
     chat with your colleagues and make use of extra tools like a Wiki or Planner.
   description: |
     <dl class="dl-horizontal">
-      <dt>Short description</dt><dd>Work together and store and share files</dd>
+      <dt>Short description</dt><dd>Work together, store and share files</dd>
       <dt>Cost</dt><dd>Free for employees of the TU Delft</dd>
       <dt>Max. storage size</dt><dd>500GB by default, expandable to 1TB</dd>
       <dt>Sharing and collaboration</dt><dd>Web based access within and outside TU Delft, sharing and working together is possible with TU Delft colleagues and also guests
