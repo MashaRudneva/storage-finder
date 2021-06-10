@@ -192,7 +192,7 @@ solutions:
       <p>&nbsp;</p>
       </dd>
     </dl> 
-- name: TUDelft Personal Data Storage (H:)
+- name: TU Delft Personal Data Storage (H:)
   id: h-schijf
   infoline: "A personal folder (H: home drive) that can be used to save your data centrally"
   info: |
@@ -203,7 +203,7 @@ solutions:
       <li>8 GB of disk space is provided as standard for both employees and students.</li>
       <li>The data in your personal folder will be included in central backups, enabling the recovery of data that has accidentally been deleted.</li>
       <li>You can recover the backups of lost documents using the previous versions option without the involvement of a Service Point employee. This can be done to recover files up to two weeks back</li>
-- name: TUDelft Group Data Storage (M:)
+- name: TU Delft Group Data Storage (M:)
   id: m-schijf
   infoline: Common storage facilities for employees in the same workgroup, department or research group.
   info: |
@@ -216,7 +216,7 @@ solutions:
     Bulk data storage for staff of TU Delft. 
     <br/>
     Do NOT use this for research data!
-- name: TUDelft Project Data Storage (U:)
+- name: TU Delft Project Data Storage (U:)
   id: u-schijf
   infoline: Data storage for research
   info: |
@@ -229,12 +229,12 @@ solutions:
       <li>Optional: After two weeks, a back-up is made every week and saved for a year. This means a data loss of maximum one day can occur. </li>
       <li>Optional: Redundant storage in multiple locations / data centres. The data remains available should a storage location fail.
     </ul>
-- name: TUDelft Block Storage
+- name: TU Delft Block Storage
   id: block    
-  infoline: Block storage for virtual machines hosted at TUDelft (VMWare Server Storage)
+  infoline: Block storage for virtual machines hosted at TU Delft (VMWare Server Storage)
   info: |
-    When you require storage that is attached to a TUDelft hosted virtual machine you will need 
-    block storage for that virtual machine. TUDelft Block Storage provides high speed access to your 
+    When you require storage that is attached to a TU Delft hosted virtual machine you will need 
+    block storage for that virtual machine. TU Delft Block Storage provides high speed access to your 
     data from your own machine.
 - name: Contact ICT
   id: w-contact    
