@@ -2,7 +2,7 @@ input:
 
 - question: "What kind of data do you want to store?"
   id: 1
-  info: "Storage for your research data often may require to be secured, backed up, has possibility to share/limit access to the internal and external colleagues. Often you won't have access to the storage provided by the TU Delft once your contract is over. Please check different storage cards for more details. "
+  info: "Storage for your research data often may require to be secured, backed up, has possibility to share/grant access to the internal and external colleagues. Often you won't have access to the storage provided by the TU Delft once your contract is over. Please check different storage cards for more details. "
   answers:
     - value: "I need to store my research data"
       excludes: [ n-schijf, laptop, opencloud ]
