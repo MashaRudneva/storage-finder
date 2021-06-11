@@ -274,14 +274,12 @@ solutions:
     data from your own machine. <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=71ba4c9678e041fd99dad8e7e11dd0e2&from=101b48c0-c39b-4db6-ba92-ebf63ec2bfe7">Topdesk</a> 
   description: |
     <dl class="dl-horizontal">
-      <dt>Short description</dt><dd>Any free public cloud storage</dd>
-      <dt>Cost</dt><dd>Free for limited storage size. More storage can be purchased</dd>
-      <dt>Max. storage size</dt><dd>Depends on the solution</dd>
-      <dt>Sharing and collaboration</dt><dd>Depends on the solution</dd>
-      <dt>Stored at</dt><dd>Outside of Europe (can be anywhere in the world)</dd>
-      <dt>Availability</dt><dd>Depends on the solution</dd>
-      <dt>Security</dt><dd>low</dd>
-      <dt>Versioning</dt><dd>Depends on the solution</dd>
+      <dt>Short description</dt><dd>Storage attached to your virtual machine. Can't be used for premanent storing or archiving of the data</dd>
+      <dt>Cost</dt><dd>Free</dd>
+      <dt>Max. storage size</dt><dd>40GB</dd>
+      <dt>Sharing and collaboration</dt><dd>Not possible</dd>
+      <dt>Stored at</dt><dd>TUDelft on-premise</dd>
+      <dt>Security</dt><dd>High</dd>
       <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=71ba4c9678e041fd99dad8e7e11dd0e2&from=101b48c0-c39b-4db6-ba92-ebf63ec2bfe7" target="_blank">TopDesk info page</a></dd>
       <p>&nbsp;</p>
       </dd>
