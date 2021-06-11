@@ -245,29 +245,25 @@ solutions:
     Do NOT use this storage for research data!
 - name:  TUDelft Project Data Storage (U:)
   id: u-schijf
-  infoline: Data storage for research
+  infoline: Data storage for research project
   info: |
     You can only use this TUDelft service as a researcher to store data needed for research. You are not allowed to share copyright protected materials with this service.
     <ul>
-      <li>Storage space can include from 250 GB to several terabytes. (Fair use)</li>
-      <li>A backup is made on a daily basis and is stored for two weeks. This means a data loss of a maximum of one day can occur. </li>
       <li>The data can be accessed through CIFS and NFS (with kerberos authentication).</li>
       <li>For a request of more than 5TB, your request will be forwarded to the FIM.</li>
-      <li>Optional: After two weeks, a back-up is made every week and saved for a year. This means a data loss of maximum one day can occur. </li>
       <li>Optional: Redundant storage in multiple locations / data centres. The data remains available should a storage location fail.
     </ul>
   description: |
     <dl class="dl-horizontal">
       <dt>Short description</dt><dd>Any free public cloud storage</dd>
       <dt>Cost</dt><dd>Free for limited storage size. More storage can be purchased</dd>
-      <dt>Max. storage size</dt><dd>Depends on the solution</dd>
+      <dt>Max. storage size</dt><dd>250 GB to several terabytes. (Fair use)</dd>
       <dt>Sharing and collaboration</dt><dd>Depends on the solution</dd>
       <dt>Stored at</dt><dd>Outside of Europe (can be anywhere in the world)</dd>
       <dt>Availability</dt><dd>Depends on the solution</dd>
       <dt>Security</dt><dd>low</dd>
-      <dt>Versioning</dt><dd>Depends on the solution</dd>
-      <dt>Get started</dt><dd><a href="" target="_blank"></a></dd>
-      <dt>More information</dt><dd><p>For more information please check the solution provider page.</p>
+      <dt>Versioning and backup</dt><dd>A backup is made on a daily basis and is stored for two weeks. This means a data loss of a maximum of one day can occur. After two weeks, a back-up is made every week and saved for a year. This means a data loss of maximum one day can occur.</dd>
+      <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609" target="_blank">TopDesk Storage overview</a></dd>
       <p>&nbsp;</p>
       </dd>
     </dl> 
@@ -288,8 +284,7 @@ solutions:
       <dt>Availability</dt><dd>Depends on the solution</dd>
       <dt>Security</dt><dd>low</dd>
       <dt>Versioning</dt><dd>Depends on the solution</dd>
-      <dt>Get started</dt><dd><a href="" target="_blank"></a></dd>
-      <dt>More information</dt><dd><p>For more information please check the solution provider page.</p>
+      <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=71ba4c9678e041fd99dad8e7e11dd0e2&from=101b48c0-c39b-4db6-ba92-ebf63ec2bfe7" target="_blank">TopDesk info page</a></dd>
       <p>&nbsp;</p>
       </dd>
     </dl> 
