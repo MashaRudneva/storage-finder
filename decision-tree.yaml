@@ -131,9 +131,9 @@ solutions:
     </dl>
 - name: Private laptop
   id: laptop
-  infoline: Your private device that is not managed by TUDelft. It is strongly inadvisable to store your research data on a private laptop.
+  infoline: Your private device that is not managed by TUDelft. 
   info: |
-    Any device that is not managed by TUDelft.
+    Any device that is not managed by TUDelft. It is strongly inadvisable to store your research data on a private laptop.
   description: |
     <dl class="dl-horizontal">
       <dt>Short description</dt><dd>Any device not managed by ICT</dd>
