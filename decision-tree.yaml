@@ -203,7 +203,7 @@ solutions:
       <dt>Sharing and collaboration</dt><dd>Depends on the solution</dd>
       <dt>Stored at</dt><dd>TUDelft on-premise</dd>
       <dt>Availability and backup</dt><dd>The data in your personal folder will be included in central backups, enabling the recovery of data that has accidentally been deleted. You can recover the backups of lost documents using the previous versions option without the involvement of a Service Point employee. This can be done to recover files up to two weeks back</dd>
-      <dt>Security</dt><dd>Low</dd>
+      <dt>Security</dt><dd>High</dd>
       <dt>Versioning</dt><dd>Depends on the solution</dd>
       <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609" target="_blank"></a></dd>
 
