@@ -124,7 +124,6 @@ solutions:
       <dt>Max. storage size</dt><dd>Not applicable</dd>
       <dt>Sharing and collaboration</dt><dd>Not possible</dd>
       <dt>Stored at</dt><dd>your laptop only, no backup available</dd>
-      <dt>Availability</dt><dd>Depends on the device</dd>
       <dt>Security</dt><dd>low</dd>
       <dt>Versioning</dt><dd>Not possible</dd>
         <dt>Get started</dt><dd><a href="https://intranet.tudelft.nl/en/-/ordering-hardware-laptop-desktop-and-paraphernalia-?" target="_blank">Intranet</a></dd>
@@ -146,7 +145,6 @@ solutions:
       <dt>Availability</dt><dd>Depends on the device</dd>
       <dt>Security</dt><dd>low</dd>
       <dt>Versioning</dt><dd>Not applicable</dd>
-      <dt>Get started</dt><dd><a href="" target="_blank"></a></dd>
       <dt>More information</dt><dd><p>For more information please visit <a href="https://intranet.tudelft.nl/en/-/laptop-project?">Intranet page</a></p>
       </dd>
     </dl>      
@@ -161,7 +159,7 @@ solutions:
     <dl class="dl-horizontal">
       <dt>Short description</dt><dd>Work together, store and share files</dd>
       <dt>Cost</dt><dd>Free for employees of the TUDelft</dd>
-      <dt>Max. storage size</dt><dd>500GB by default, expandable to 1TB</dd>
+      <dt>Max. storage size</dt><dd>Fair use</dd>
       <dt>Sharing and collaboration</dt><dd>Web based access within and outside TUDelft, sharing and working together is possible with TUDelft colleagues and also guests
       </dd>
       <dt>Stored at</dt><dd>Within Europe</dd>
@@ -222,20 +220,19 @@ solutions:
   id: m-schijf
   infoline: Common storage facilities for employees in the same workgroup, department or research group
   info: |
-    Group data storage, also referred to as folders, is a communal storage facility for a number of 
-    users in the same tutorial, department or research group. The standard storage space for a group folder is 50 gigabytes
+    Common storage facilities for employees who are part of the same workgroup, department or research group. The standard storage space for a group folder is 50GB (Fair use)
   description: |
     <dl class="dl-horizontal">
       <dt>Short description</dt><dd>Any free public cloud storage</dd>
-      <dt>Cost</dt><dd>Free for limited storage size. More storage can be purchased</dd>
-      <dt>Max. storage size</dt><dd>Depends on the solution</dd>
-      <dt>Sharing and collaboration</dt><dd>Depends on the solution</dd>
-      <dt>Stored at</dt><dd>Outside of Europe (can be anywhere in the world)</dd>
+      <dt>Cost</dt><dd>Free for employees</dd>
+      <dt>Max. storage size</dt><dd>50GB</dd>
+      <dt>Sharing and collaboration</dt><dd>Shares automatic with department. Share based on organisation (dean/departmental director always possible)</dd>
+      <dt>Stored at</dt><dd>TU Delft on-premise</dd>
       <dt>Availability</dt><dd>Depends on the solution</dd>
-      <dt>Security</dt><dd>low</dd>
-      <dt>Versioning</dt><dd>Depends on the solution</dd>
-      <dt>Get started</dt><dd><a href="" target="_blank"></a></dd>
-      <dt>More information</dt><dd><p>For more information please check the solution provider page.</p>
+      <dt>Security</dt><dd>standard</dd>
+      <dt>Versioning and backup</dt><dd>Backup is done on a daily basis and the data is stored for a year.</dd>
+      <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609" target="_blank">TopDesk info page</a></dd>
+      <dt>More information</dt><dd><p></p>
       <p>&nbsp;</p>
       </dd>
     </dl> 
@@ -281,6 +278,21 @@ solutions:
     When you require storage that is attached to a TUDelft hosted virtual machine you will need 
     block storage for that virtual machine. TUDelft Block Storage provides high speed access to your 
     data from your own machine. <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=71ba4c9678e041fd99dad8e7e11dd0e2&from=101b48c0-c39b-4db6-ba92-ebf63ec2bfe7">Topdesk</a> 
+  description: |
+    <dl class="dl-horizontal">
+      <dt>Short description</dt><dd>Any free public cloud storage</dd>
+      <dt>Cost</dt><dd>Free for limited storage size. More storage can be purchased</dd>
+      <dt>Max. storage size</dt><dd>Depends on the solution</dd>
+      <dt>Sharing and collaboration</dt><dd>Depends on the solution</dd>
+      <dt>Stored at</dt><dd>Outside of Europe (can be anywhere in the world)</dd>
+      <dt>Availability</dt><dd>Depends on the solution</dd>
+      <dt>Security</dt><dd>low</dd>
+      <dt>Versioning</dt><dd>Depends on the solution</dd>
+      <dt>Get started</dt><dd><a href="" target="_blank"></a></dd>
+      <dt>More information</dt><dd><p>For more information please check the solution provider page.</p>
+      <p>&nbsp;</p>
+      </dd>
+    </dl> 
 - name: Contact ICT
   id: w-contact    
   infoline: For special storage solutions please contact Service point of your department
