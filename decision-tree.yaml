@@ -204,7 +204,7 @@ solutions:
       <dt>Stored at</dt><dd>TUDelft on-premise</dd>
       <dt>Availability and backup</dt><dd>The data in your personal folder will be included in central backups, enabling the recovery of data that has accidentally been deleted. You can recover the backups of lost documents using the previous versions option without the involvement of a Service Point employee. This can be done to recover files up to two weeks back</dd>
       <dt>Security</dt><dd>High</dd>
-#      <dt>Versioning</dt><dd></dd>
+      <dt>Versioning</dt><dd></dd>
       <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609" target="_blank"></a></dd>
 
       <p>&nbsp;</p>
@@ -224,7 +224,7 @@ solutions:
       <dt>Stored at</dt><dd>TU Delft on-premise</dd>
       <dt>Availability and backup</dt><dd>Backup is done on a daily basis and the data is stored for a year.</dd>
       <dt>Security</dt><dd>standard</dd>
-#      <dt>Versioning</dt><dd></dd>
+      <dt>Versioning</dt><dd></dd>
       <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609" target="_blank">TopDesk info page</a></dd>
       <p>&nbsp;</p>
       </dd>
@@ -255,7 +255,7 @@ solutions:
       <dt>Stored at</dt><dd>TUDelft on-premise</dd>
       <dt>Availability and backup</dt><dd>A backup is made on a daily basis and is stored for two weeks. This means a data loss of a maximum of one day can occur. After two weeks, a back-up is made every week and saved for a year. This means a data loss of maximum one day can occur.</dd>
       <dt>Security</dt><dd>High</dd>
- #     <dt>Versioning</dt><dd></dd>
+      <dt>Versioning</dt><dd></dd>
       <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609" target="_blank">TopDesk Storage overview</a></dd>
       <p>&nbsp;</p>
       </dd>
