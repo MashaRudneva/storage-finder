@@ -27,7 +27,7 @@ input:
     - value: "50 GB - 1 TB"
       excludes: [ laptop, tulaptop, n-schijf, h-schijf, m-schijf ]
     - value: "1 TB - 5 TB"
-      excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, h-schijf, msteams, m-schijf ]
+      excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, h-schijf, msteams, m-schijf, msteams ]
     - value: "More than 5 TB"
       excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, msteams, h-schijf, opencloud, m-schijf ]
 - question: "What is the classification of your data regarding confidentiality?"
