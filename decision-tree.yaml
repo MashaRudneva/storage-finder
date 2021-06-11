@@ -163,10 +163,9 @@ solutions:
       </dd>
       <dt>Stored at</dt><dd>Within Europe</dd>
       <dt>Availability</dt><dd>Microsoft cloudservice. The TUDelft does not make backups of files stores in Office 365</dd>
-      <dt>Security</dt><dd>high</dd>
+      <dt>Security</dt><dd>High</dd>
       <dt>Versioning</dt><dd>Versioning is available</dd>
-      <dt>Get started</dt><dd><a href="https://intranet.tudelft.nl/en/-/microsoft-teams-1?">TEAMS page on the Intranet</a></dd>
-      <dt>More information</dt><dd><p>For more information please contact the <<a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=846ebb16181c43b5836c063a917dd199&from=03aa10b9-c5aa-4e0a-80b1-28ee7ab383df">Topdesk</a></p>
+      <dt>Get started</dt><dd><a href="https://intranet.tudelft.nl/en/-/microsoft-teams-1?">Teams page on the Intranet</a></dd>
       </dd>
     </dl>
 - name: Public Cloud
