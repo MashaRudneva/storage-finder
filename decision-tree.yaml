@@ -252,7 +252,7 @@ solutions:
       <dt>Short description</dt><dd>Storage for the research projects at TUDelft</dd>
       <dt>Cost</dt><dd>Free</dd>
       <dt>Max. storage size</dt><dd>250 GB to several terabytes (Fair use). For a request of more than 5TB, your request will be forwarded to the FIM</dd>
-      <dt>Sharing and collaboration</dt><dd>share entire drive with different access types, need TU guest account - TUD ICT needs to create a NetID for all users outside TUD and for this, the following info of these external users are needed name, surname, birth date, email address</dd>
+      <dt>Sharing and collaboration</dt><dd>Share entire drive with different access types is possible. For external users a TUDelft guest account is needed. </dd>
       <dt>Stored at</dt><dd>TUDelft on-premise</dd>
       <dt>Availability and backup</dt><dd>A backup is made on a daily basis and is stored for two weeks. This means a data loss of a maximum of one day can occur. After two weeks, a back-up is made every week and saved for a year. This means a data loss of maximum one day can occur.</dd>
       <dt>Security</dt><dd>High</dd>
