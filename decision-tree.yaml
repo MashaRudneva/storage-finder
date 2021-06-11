@@ -25,7 +25,7 @@ input:
     - value: "Under 50 GB"
       excludes: [ n-schijf ]
     - value: "50 GB - 1 TB"
-      excludes: [ laptop, tulaptop, n-schijf, h-schijf, m-schijf, msteams ]
+      excludes: [ laptop, tulaptop, n-schijf, msteams, h-schijf, m-schijf, msteams ]
     - value: "1 TB - 5 TB"
       excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, h-schijf, msteams, m-schijf ]
     - value: "More than 5 TB"
