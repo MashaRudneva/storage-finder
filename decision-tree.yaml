@@ -240,7 +240,7 @@ solutions:
   info: |
     Bulk data storage for staff of TUDelft. 
     <br/>
-    Do NOT use this storage for research data!
+    Do NOT use this storage for research or personal data!
 - name:  TUDelft Project Data Storage (U:)
   id: u-schijf
   infoline: Data storage for research project
