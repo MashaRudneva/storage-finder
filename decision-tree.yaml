@@ -85,7 +85,7 @@ solutions:
       <dt>Sharing and collaboration</dt><dd>Web based access within and outside TUDelft, sharing and working together is possible with TUDelft colleagues and also guests</dd>
       <dt>Stored at</dt><dd>Within Europe</dd>
       <dt>Availability</dt><dd>Microsoft cloudservice. The TUDelft does not make backups of files stores in Office 365</dd>
-      <dt>Security</dt><dd>high</dd>
+      <dt>Security</dt><dd>High. As it involves sensitive personal data, or high sensitive IP / state sensitive - additional measure (i.e. client side encryption) are needed</dd>
       <dt>Versioning</dt><dd>Versioning is available</dd>
       <dt>Get started</dt><dd><a href="https://www.tudelft.nl/ict-handleidingen/microsoft-365/" target="_blank">https://www.tudelft.nl/ict-handleidingen/microsoft-365/</a></dd>
       </dd>
