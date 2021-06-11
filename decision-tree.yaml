@@ -120,7 +120,7 @@ solutions:
     <dl class="dl-horizontal">
       <dt>Short description</dt><dd>A device managed by ICT</dd>
       <dt>Cost</dt><dd>Depends on the device</dd>
-      <dt>Max. storage size</dt><dd>Not applicable</dd>
+      <dt>Max. storage size</dt><dd>Depends on the devicee</dd>
       <dt>Sharing and collaboration</dt><dd>Not possible</dd>
       <dt>Stored at</dt><dd>your laptop only, no backup available</dd>
       <dt>Security</dt><dd>Low</dd>
@@ -137,8 +137,8 @@ solutions:
   description: |
     <dl class="dl-horizontal">
       <dt>Short description</dt><dd>Any device not managed by ICT</dd>
-      <dt>Cost</dt><dd>Not applicable</dd>
-      <dt>Max. storage size</dt><dd>Not applicable</dd>
+      <dt>Cost</dt><dd>Depends on the device</dd>
+      <dt>Max. storage size</dt><dd>Depends on the device</dd>
       <dt>Sharing and collaboration</dt><dd>Not possible</dd>
       <dt>Stored at</dt><dd>your laptop only, no backup available</dd>
       <dt>Availability and backup</dt><dd>No backup unless setup by the user</dd>
