@@ -235,7 +235,7 @@ solutions:
       <p>&nbsp;</p>
       </dd>
     </dl> 
-- name:  TUD Bulk Data Storage (N:)
+- name: TUDelft Bulk Data Storage (N:)
   id: n-schijf
   infoline: Common storage facilities for staff groups
   info: |
