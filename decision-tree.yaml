@@ -2,15 +2,15 @@ input:
 
 - question: "What kind of data do you want to store?"
   id: 1
-  info: "Storage for your research data often may require to be secured, backed up, has the possibility to share/grant access to the internal and external colleagues. Often you won't have access to the storage provided by the TU Delft once your contract is over. Please check different storage cards for more details. "
+  info: "Storage for the research data often may require to be secured, backed up, has the possibility to share/grant access to the internal and external colleagues. Often you won't have access to the storage provided by the TU Delft once your contract is over. Please check different storage cards for more details. "
   answers:
-    - value: "I need to store my research data"
+    - value: "I need to store research data"
       excludes: [ n-schijf, laptop, opencloud ]
     - value: "I'd like to store private data (photos, contracts etc)"
       excludes: [ block, m-schijf, n-schijf, u-schijf, msteams ]    
 - question: "Do you want to share your data with colleagues?"
   id: 2
-  info: "Sharing means that some people may have access to your data. Depending on the data storage, you can grant access to other people yourself or request it via an administrator/data manager. You find more information about access rights in the solution description cards"
+  info: "Sharing means that some people may have access to the data. Depending on the data storage, you can grant access to other people yourself or request it via an administrator/data manager. You find more information about access rights in the solution description cards"
   answers:
     - value: "No"
       excludes: [ n-schijf ]
@@ -18,7 +18,7 @@ input:
       excludes: [ laptop, tulaptop, block, h-schijf, n-schijf ]    
     - value: "Yes, with persons outside the university"
       excludes: [ laptop, tulaptop, block, project, msteams, h-schijf, n-schijf, m-schijf, u-schijf ]
-- question: "What will be the total amount of your data?"
+- question: "What will be the total amount of the data?"
   id: 3
   info: "To give you an idea about size: 1 TB is 270,000 photos taken with a 12MP camera or 500 hours of HD video or 6.5 million document pages"
   answers:
@@ -30,11 +30,11 @@ input:
       excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, h-schijf, msteams, m-schijf ]
     - value: "More than 5 TB"
       excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, msteams, h-schijf, opencloud, m-schijf ]
-- question: "What is the classification of your data regarding confidentiality?"
+- question: "What is the classification of the data regarding confidentiality?"
   id: 4
   info: |
     <p>What is the impact if an unauthorised person gains access to the data and what if the data is leaked?</p>
-    <p>You can check how to handle personal data before, during and after your research in the <a href="https://www.tudelft.nl">Guide Handling Personal Data.</a></p>
+    <p>You can check how to handle personal data before, during and after the research in this page <a href="https://www.tudelft.nl/en/privacy-security/privacy/understanding-privacy">Guide Handling Personal Data.</a></p>
     <p>The classification of the impact falls in 4 categories:</p>
     <ul>
       <li><strong>Low</strong>: Short term interruption, mainly data that’s already public or isn’t sensitive</li>
