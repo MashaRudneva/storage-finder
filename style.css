@@ -132,9 +132,9 @@ div.storage-questions:hover {
 .title-bar {
     padding: 16px;
     padding-left: 0px;
-    border-bottom: 1px solid #9b9b9b;
+    border-bottom: 3px solid #9b9b9b;
     margin-left: 73px;
     width: 100%;
-    color: #9b9b9b;
-    margin-bottom: 40px;
+    color: ##5c5c5c;
+    margin-bottom: 30px;
 }
