@@ -7,7 +7,7 @@ input:
     - value: "I need to store my research data"
       excludes: [ n-schijf, laptop, opencloud ]
     - value: "I'd like to store private data (photos, contracts etc)"
-      excludes: [ block, m-schijf, n-schijf, u-schijf, msteams, w-contact ]    
+      excludes: [ block, m-schijf, n-schijf, u-schijf, msteams ]    
 - question: "Do you want to share your data with colleagues?"
   id: 2
   info: "Sharing means that some people may have access to your data. Depending on the data storage, you can grant access to other people yourself or request it via an administrator/data manager. You find more information about access rights in the solution description cards"
@@ -280,10 +280,10 @@ solutions:
       </dd>
     </dl>
     
-- name: Contact ICT
-  id: w-contact    
-  infoline: For special storage solutions please contact Service point of your department
-  info: |
-    If you can not find a good storage solution for your project, please go to your "servicepunt", alternatively you can issue a ticket via the <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=846ebb16181c43b5836c063a917dd199&from=03aa10b9-c5aa-4e0a-80b1-28ee7ab383df">Topdesk</a> . 
+#- name: Contact ICT
+#  id: w-contact    
+#  infoline: For special storage solutions please contact Service point of your department
+#  info: |
+#    If you can not find a good storage solution for your project, please go to your "servicepunt", alternatively you can issue a ticket via the <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=846ebb16181c43b5836c063a917dd199&from=03aa10b9-c5aa-4e0a-80b1-28ee7ab383df">Topdesk</a> . 
     <br/>
     
