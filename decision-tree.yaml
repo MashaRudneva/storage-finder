@@ -279,10 +279,3 @@ solutions:
       <p>&nbsp;</p>
       </dd>
     </dl>
-    
-- name: Contact ICT
-  id: w-contact    
-  infoline: For special storage solutions please contact Service point of your department
-  info: |
-    If you can not find a good storage solution for your project, please go to your "servicepunt", alternatively you can issue a ticket via the <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=846ebb16181c43b5836c063a917dd199&from=03aa10b9-c5aa-4e0a-80b1-28ee7ab383df">Topdesk</a> . 
-    <br/> 
