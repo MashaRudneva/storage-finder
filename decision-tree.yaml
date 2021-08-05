@@ -190,19 +190,19 @@ solutions:
     </dl> 
 - name: TUDelft Personal Data Storage (H:)
   id: h-schijf
-  infoline: "A personal folder (H: home drive) that can be used to save your data centrally"
+  infoline: "A personal folder (H: home drive) that can be used to save your data centrally. Not suitable for research data. Private work files only "
   info: |
     TUDelft provides standard access to a personal folder (H: home drive) that can be used to save your data centrally. 
     For Linux users, a Linux Home Drive is available.
    
   description: |
     <dl class="dl-horizontal">
-      <dt>Short description</dt><dd>Any free public cloud storage</dd>
+      <dt>Short description</dt><dd>TU Delft ICT Network Drive for private work files. Not suitable for research data </dd>
       <dt>Cost</dt><dd>Free</dd>
       <dt>Max. storage size</dt><dd>8 GB of disk space is provided as standard for both employees and students.</dd>
-      <dt>Sharing and collaboration</dt><dd>Depends on the solution</dd>
+      <dt>Sharing and collaboration</dt><dd>Cannot be used for sharing and collaboration</dd>
       <dt>Stored at</dt><dd>TUDelft on-premise</dd>
-      <dt>Availability and backup</dt><dd>The data in your personal folder will be included in central backups, enabling the recovery of data that has accidentally been deleted. You can recover the backups of lost documents using the previous versions option without the involvement of a Service Point employee. This can be done to recover files up to two weeks back</dd>
+#      <dt>Availability and backup</dt><dd>The data in your personal folder will be included in central backups, enabling the recovery of data that has accidentally been deleted. You can recover the backups of lost documents using the previous versions option without the involvement of a Service Point employee. This can be done to recover files up to two weeks back</dd>
       <dt>Security</dt><dd>High</dd>
       <dt>Versioning</dt><dd></dd>
       <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609" target="_blank"></a></dd>
