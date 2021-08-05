@@ -15,7 +15,7 @@ input:
     - value: "No"
       excludes: [ n-schijf ]
     - value: "Yes, but only within the university"
-      excludes: [ laptop, tulaptop, block, h-schijf, n-schijf]    
+      excludes: [ laptop, tulaptop, block, h-schijf, n-schijf ]    
     - value: "Yes, with persons outside the university"
       excludes: [ laptop, tulaptop, block, project, msteams, h-schijf, n-schijf, m-schijf, u-schijf ]
 - question: "What will be the total amount of your data?"
@@ -49,7 +49,7 @@ input:
     - value: "Normal"
       excludes: [ n-schijf ]
     - value: "Sensitive"
-      excludes: [ n-schijf, opencloud, m-schijf, tulaptop, laptop  ]
+      excludes: [ n-schijf, opencloud, m-schijf, tulaptop, laptop ]
     - value: "Critical"
       excludes: [ n-schijf, opencloud, h-schijf, m-schijf, surfdrive, laptop, block, tulaptop, onedrive, msteams ]
 - question: "Do you want to be able to access previous versions of the data yourself?"
