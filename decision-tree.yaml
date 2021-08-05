@@ -34,7 +34,7 @@ input:
   id: 4
   info: |
     <p>What is the impact if an unauthorised person gains access to the data and what if the data is leaked?</p>
-    <p>You can check how to handle personal data before, during and after the research in this page <a href="https://www.tudelft.nl/en/privacy-security/privacy/understanding-privacy">Guide Handling Personal Data.</a></p>
+    <p>You can check how to handle personal data before, during and after the research in this page <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/confidential-data/personal-data">Personal Research Data Workflow</a></p>
     <p>The classification of the impact falls in 4 categories:</p>
     <ul>
       <li><strong>Low</strong>: Short term interruption, mainly data that’s already public or isn’t sensitive</li>
