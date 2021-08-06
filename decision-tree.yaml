@@ -8,7 +8,7 @@ input:
       excludes: [ n-schijf, laptop, opencloud ]
     - value: "I'd like to store private data (photos, contracts etc)"
       excludes: [ block, m-schijf, n-schijf, u-schijf, msteams ]    
-- question: "Do you want to share your data with colleagues?"
+- question: "Do you want to share data with colleagues?"
   id: 2
   info: "Sharing means that some people may have access to the data. Depending on the data storage, you can grant access to other people yourself or request it via an administrator/data manager. You find more information about access rights in the solution description cards"
   answers:
@@ -42,7 +42,7 @@ input:
       <li><strong>Sensitive</strong>: Publication restrictions, reputation damage to researcher and University, patents or contractual agreements, sensitive personal data of moderate amount of individuals or non-sensitive personal data of large number of individuals</li>
       <li><strong>Critical</strong>: Far reaching contractual obligations, exclusion from future grants or life-threatening research, highly sensitive personal data of individuals or personal data of huge number of individuals.</li>
     </ul>
-    <p>TUDelft states that you classify your research data to determine the value of your data and the security risk that your data is exposed to. There is a short classification available on the <a href="https://tudelft.intranet.nl">TU Delft intranet</a>.</p>
+    <p>TUDelft states that you classify your research data to determine the value of the data and the security risk that the data is exposed to. There is a short classification available on the <a href="https://tudelft.intranet.nl">TU Delft intranet</a>.</p>
   answers:
 #    - value: "Low"
 #      excludes: [ n-schijf ]
@@ -190,7 +190,7 @@ solutions:
     </dl> 
 - name: TUDelft Personal Data Storage (H:)
   id: h-schijf
-  infoline: "A personal folder (H: home drive) that can be used to save your data centrally. Not suitable for research data. Private work files only "
+  infoline: "A personal folder (H: home drive) to save your data centrally. Not suitable for research data. Private work files only "
   info: |
     TUDelft provides standard access to a personal folder (H: home drive) that can be used to save your data centrally. 
     For Linux users, a Linux Home Drive is available.
