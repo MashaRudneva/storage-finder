@@ -255,7 +255,7 @@ solutions:
       <dt>Availability and backup</dt><dd>A backup is made on a daily basis and is stored for two weeks. This means a data loss of a maximum of one day can occur. After two weeks, a back-up is made every week and saved for a year. This means a data loss of maximum one day can occur.</dd>
       <dt>Security</dt><dd>High</dd>
       <dt>Versioning</dt><dd></dd>
-      <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609" target="_blank">TopDesk Storage overview</a></dd>
+      <dt>Get started </dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609" target="_blank">TopDesk Storage overview</a></dd>
       <p>&nbsp;</p>
       </dd>
     </dl> 
