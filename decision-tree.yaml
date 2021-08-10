@@ -114,10 +114,10 @@ solutions:
   id: tulaptop
   infoline: Your TUDelft configured and managed laptop
   info: |
-    Your TUDelft managed laptop that you use to work on on a daily basis
+    TUDelft managed laptops
   description: |
     <dl class="dl-horizontal">
-      <dt>Short description</dt><dd>A device managed by ICT</dd>
+      <dt>Short description</dt><dd>A device managed by the ICT</dd>
       <dt>Cost</dt><dd>Depends on the device</dd>
       <dt>Max. storage size</dt><dd>Depends on the devicee</dd>
       <dt>Sharing and collaboration</dt><dd>Not possible</dd>
@@ -130,7 +130,7 @@ solutions:
     </dl>
 - name: Private laptop
   id: laptop
-  infoline: Your private device that is not managed by TUDelft. 
+  infoline: Private device that is not managed by the TUDelft. 
   info: |
     Any device that is not managed by TUDelft. It is strongly inadvisable to store your research data on a private laptop.
   description: |
