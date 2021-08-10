@@ -42,7 +42,7 @@ input:
       <li><strong>Sensitive</strong>: Publication restrictions, reputation damage to researcher and University, patents or contractual agreements, sensitive personal data of moderate amount of individuals or non-sensitive personal data of large number of individuals</li>
       <li><strong>Critical</strong>: Far reaching contractual obligations, exclusion from future grants or life-threatening research, highly sensitive personal data of individuals or personal data of huge number of individuals.</li>
     </ul>
-    <p>TUDelft states that you classify your research data to determine the value of the data and the security risk that the data is exposed to. There is a short classification available on the <a href="https://tudelft.intranet.nl">TU Delft intranet</a>.</p>
+    <p>TUDelft states that you classify your research data to determine the value of the data and the security risk that the data is exposed to. There is a short classification available on the <a href="https://intranet.tudelft.nl/">TU Delft intranet</a>.</p>
   answers:
 #    - value: "Low"
 #      excludes: [ n-schijf ]
