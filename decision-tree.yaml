@@ -196,7 +196,7 @@ solutions:
    
   description: |
     <dl class="dl-horizontal">
-      <dt>Short description</dt><dd>TU Delft ICT Network Drive for private work files. Not suitable for research data. Require internet connection </dd>
+      <dt>Short description</dt><dd>TU Delft ICT Network Drive for private work files. Not suitable for research data. Requires internet connection </dd>
       <dt>Cost</dt><dd>Free</dd>
       <dt>Max. storage size</dt><dd>8 GB of disk space is provided as standard for both employees and students.</dd>
       <dt>Sharing and collaboration</dt><dd>Cannot be used for sharing and collaboration</dd>
@@ -216,7 +216,7 @@ solutions:
     Common storage facilities for employees who are part of the same workgroup, department or research group. The standard storage space for a group folder is 50GB (Fair use)
   description: |
     <dl class="dl-horizontal">
-      <dt>Short description</dt><dd>TU Delft ICT Network Drive. Require internet connection</dd>
+      <dt>Short description</dt><dd>Network Drive provided by TU Delft, requires internet connection</dd>
       <dt>Cost</dt><dd>Free for employees</dd>
       <dt>Max. storage size</dt><dd>50GB</dd>
       <dt>Sharing and collaboration</dt><dd>Sharing entire drive with the department. Not possible to share only specific subfolders. Not possible to collaboratively work on the same files at the same time. </dd>
@@ -247,7 +247,7 @@ solutions:
     </ul>
   description: |
     <dl class="dl-horizontal">
-      <dt>Short description</dt><dd>Storage for the research projects at TUDelft</dd>
+      <dt>Short description</dt><dd>Storage for the research projects at TUDelft. Network Drive provided by TU Delft, requires internet connection</dd>
       <dt>Cost</dt><dd>Free</dd>
       <dt>Max. storage size</dt><dd>250 GB to several terabytes (Fair use). For a request of more than 5TB, your request will be forwarded to the FIM</dd>
       <dt>Sharing and collaboration</dt><dd>Share entire drive with different access types is possible. For external users a TUDelft guest account is needed. </dd>
