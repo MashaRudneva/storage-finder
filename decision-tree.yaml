@@ -46,7 +46,7 @@ input:
   answers:
 #    - value: "Low"
 #      excludes: [ n-schijf ]
-    - value: "Normal"
+    - value: "Standard"
       excludes: [ n-schijf ]
     - value: "Sensitive"
       excludes: [ n-schijf, opencloud, m-schijf, tulaptop, laptop ]
