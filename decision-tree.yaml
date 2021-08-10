@@ -17,7 +17,7 @@ input:
     - value: "Yes, but only within the university"
       excludes: [ laptop, tulaptop, block, h-schijf, n-schijf ]    
     - value: "Yes, with persons outside the university"
-      excludes: [ laptop, tulaptop, block, project, msteams, h-schijf, n-schijf, m-schijf, u-schijf ]
+      excludes: [ laptop, tulaptop, block, project, msteams, h-schijf, n-schijf, m-schijf ]
 - question: "What will be the total amount of the data?"
   id: 3
   info: "To give you an idea about size: 1 TB is 270,000 photos taken with a 12MP camera or 500 hours of HD video or 6.5 million document pages"
