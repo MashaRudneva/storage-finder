@@ -197,7 +197,7 @@ solutions:
    
   description: |
     <dl class="dl-horizontal">
-      <dt>Short description</dt><dd>TU Delft ICT Network Drive for private work files. Not suitable for research data </dd>
+      <dt>Short description</dt><dd>TU Delft ICT Network Drive for private work files. Not suitable for research data. Require internet connection </dd>
       <dt>Cost</dt><dd>Free</dd>
       <dt>Max. storage size</dt><dd>8 GB of disk space is provided as standard for both employees and students.</dd>
       <dt>Sharing and collaboration</dt><dd>Cannot be used for sharing and collaboration</dd>
@@ -205,7 +205,7 @@ solutions:
       <dt>Availability and backup</dt><dd>The data in your personal folder will be included in central backups, enabling the recovery of data that has accidentally been deleted. You can recover the backups of lost documents using the previous versions option without the involvement of a Service Point employee. This can be done to recover files up to two weeks back</dd>
       <dt>Security</dt><dd>High</dd>
       <dt>Versioning</dt><dd></dd>
-      <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609" target="_blank"></a></dd>
+      <dt>Get started</dt><dd><a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609" target="_blank">Topdesk info page</a></dd>
 
       <p>&nbsp;</p>
       </dd>
@@ -217,7 +217,7 @@ solutions:
     Common storage facilities for employees who are part of the same workgroup, department or research group. The standard storage space for a group folder is 50GB (Fair use)
   description: |
     <dl class="dl-horizontal">
-      <dt>Short description</dt><dd>TU Delft ICT Network Drive</dd>
+      <dt>Short description</dt><dd>TU Delft ICT Network Drive. Require internet connection</dd>
       <dt>Cost</dt><dd>Free for employees</dd>
       <dt>Max. storage size</dt><dd>50GB</dd>
       <dt>Sharing and collaboration</dt><dd>Sharing entire drive with the department. Not possible to share only specific subfolders. Not possible to collaboratively work on the same files at the same time. </dd>
