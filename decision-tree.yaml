@@ -38,7 +38,6 @@ input:
     <p>The classification of the impact falls in 4 categories:</p>
     <ul>
       <li><strong>Critical</strong>: contains information that enables the identification of an individual</li>      
-#      <li><strong>Normal</strong>: Non-public research data, long term interruption or invalidation of research, personal data of moderate amount of individuals or sensitive personal data of small number of individuals</li>
       <li><strong>Sensitive</strong>: are competition-sensitive or confidential</li>
       <li><strong>Standard</strong>: are all other data</li>
     </ul>
