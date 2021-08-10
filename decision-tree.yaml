@@ -32,16 +32,16 @@ input:
       excludes: [ laptop, tulaptop, surfdrive, n-schijf, block, onedrive, msteams, h-schijf, opencloud, m-schijf ]
 - question: "What is the classification of the data regarding confidentiality?"
   id: 4
-#  info: |
-#    <p>What is the impact if an unauthorised person gains access to the data and what if the data is leaked?</p>
-#    <p>You can check how to handle personal data before, during and after the research in this page <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/confidential-data/personal-data">Personal Research Data Workflow</a></p>
-#    <p>The classification of the impact falls in 3 categories:</p>
-#    <ul>
-#      <li><strong>Critical</strong>: contains information that enables the identification of an individual</li>      
-#      <li><strong>Sensitive</strong>: are competition-sensitive or confidential</li>
-#      <li><strong>Standard</strong>: are all other data</li>
-#    </ul>
-#    <p>TUDelft states that you classify your research data to determine the value of the data and the security risk that the data is exposed to. There is a short classification available on the <a href="https://www.tudelft.nl/en/privacy-security/privacy/understanding-privacy">TU Delft intranet</a>.</p>
+  info: |
+    <p>What is the impact if an unauthorised person gains access to the data and what if the data is leaked?</p>
+    <p>You can check how to handle personal data before, during and after the research in this page <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/confidential-data/personal-data">Personal Research Data Workflow</a></p>
+    <p>The classification of the impact falls in 3 categories:</p>
+    <ul>
+      <li><strong>Critical</strong>: contains information that enables the identification of an individual</li>      
+      <li><strong>Sensitive</strong>: are competition-sensitive or confidential</li>
+      <li><strong>Standard</strong>: are all other data</li>
+    </ul>
+    <p>TUDelft states that you classify your research data to determine the value of the data and the security risk that the data is exposed to. There is a short classification available on the <a href="https://www.tudelft.nl/en/privacy-security/privacy/understanding-privacy">TU Delft intranet</a>.</p>
   answers:
 #    - value: "Low"
 #      excludes: [ n-schijf ]
