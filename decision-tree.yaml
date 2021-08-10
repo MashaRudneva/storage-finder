@@ -220,7 +220,7 @@ solutions:
       <dt>Short description</dt><dd>TU Delft ICT Network Drive</dd>
       <dt>Cost</dt><dd>Free for employees</dd>
       <dt>Max. storage size</dt><dd>50GB</dd>
-      <dt>Sharing and collaboration</dt><dd>Shares automatic with the department. Share based on organisation (dean/departmental director always possible)</dd>
+      <dt>Sharing and collaboration</dt><dd>Sharing entire drive with the department. Not possible to share only specific subfolders. Not possible to collaboratively work on the same files at the same time. </dd>
       <dt>Stored at</dt><dd>TU Delft on-premise</dd>
       <dt>Availability and backup</dt><dd>Backup is done on a daily basis and the data is stored for a year.</dd>
       <dt>Security</dt><dd>standard</dd>
