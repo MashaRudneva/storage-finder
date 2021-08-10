@@ -140,7 +140,7 @@ solutions:
       <dt>Max. storage size</dt><dd>Depends on the device</dd>
       <dt>Sharing and collaboration</dt><dd>Not possible</dd>
       <dt>Stored at</dt><dd>your laptop only, no backup available</dd>
-      <dt>Availability and backup</dt><dd>No backup unless setup by the user</dd>
+      <dt>Availability and backup</dt><dd>This is only possible if the user has setup a backup and version control program</dd>
       <dt>Security</dt><dd>Low</dd>
       <dt>Versioning</dt><dd>Not applicable</dd>
       <dt>More information</dt><dd><p>For more information please visit <a href="https://intranet.tudelft.nl/en/-/laptop-project?">Intranet page</a></p>
