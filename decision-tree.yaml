@@ -37,10 +37,10 @@ input:
     <p>You can check how to handle personal data before, during and after the research in this page <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/confidential-data/personal-data">Personal Research Data Workflow</a></p>
     <p>The classification of the impact falls in 4 categories:</p>
     <ul>
-      <li><strong>Low</strong>: Short term interruption, mainly data that’s already public or isn’t sensitive</li>
-      <li><strong>Normal</strong>: Non-public research data, long term interruption or invalidation of research, personal data of moderate amount of individuals or sensitive personal data of small number of individuals</li>
-      <li><strong>Sensitive</strong>: Publication restrictions, reputation damage to researcher and University, patents or contractual agreements, sensitive personal data of moderate amount of individuals or non-sensitive personal data of large number of individuals</li>
-      <li><strong>Critical</strong>: Far reaching contractual obligations, exclusion from future grants or life-threatening research, highly sensitive personal data of individuals or personal data of huge number of individuals.</li>
+      <li><strong>Critical</strong>: contains information that enables the identification of an individual</li>      
+#      <li><strong>Normal</strong>: Non-public research data, long term interruption or invalidation of research, personal data of moderate amount of individuals or sensitive personal data of small number of individuals</li>
+      <li><strong>Sensitive</strong>: are competition-sensitive or confidential</li>
+      <li><strong>Standard</strong>: are all other data</li>
     </ul>
     <p>TUDelft states that you classify your research data to determine the value of the data and the security risk that the data is exposed to. There is a short classification available on the <a href="https://www.tudelft.nl/en/privacy-security/privacy/understanding-privacy">TU Delft intranet</a>.</p>
   answers:
